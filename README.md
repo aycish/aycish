@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 ## CARDs
 `GitHub Stats / Profile`<br/><br/>
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=aycish&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/aycish)<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aycish&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 
 `SolvedAC Tier`<br/><br/>
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeans12321)](https://solved.ac/profile/jeans12321)<br/><br/>
