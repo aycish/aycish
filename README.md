@@ -17,10 +17,6 @@ You can click the Preview link to take a look at your changes.
 `SolvedAC Tier`<br/><br/>
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeans12321)](https://solved.ac/profile/jeans12321)<br/><br/>
 
-## PROJECTs
-- 코딩테스트 대비 문제 (BOJ)
-- 코딩테스트 대비 문제 (프로그래머스)
-
 ## INTEREST
 - Languages
   - C/C++
@@ -30,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   - Spring
   
 - Program Solving
-  - [BOJ](https://www.acmicpc.net/user/tony9402)
+  - [BOJ](https://www.acmicpc.net/user/jeans12321)
   - [Programmers](https://programmers.co.kr/job_profiles/edit)
   
 
